@@ -93,27 +93,6 @@ Actively involved in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaunakSuri&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSuri&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RaunakSuri&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaunakSuri&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
