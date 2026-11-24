@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Raunak Suri**
+# 👋 Hello, I'm **Raunak Suri**
 
 ### Full Stack Developer · DSA · GDGC DSA-CP Lead
 
