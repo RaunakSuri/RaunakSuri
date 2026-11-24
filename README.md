@@ -1,66 +1,143 @@
-<h1 align="center">Hello 👋, I'm Raunak Suri</h1>
+<div align="center">
 
-<h3 align="center">Code | Solve | Build | Communicate</h3>
+# 👋 Hi, I'm **Raunak Suri**
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Engineering Student
-- 💡 Passionate about Data Structures & Algorithms
-- 🌐 Currently learning Web Development
-- ⚛️ Exploring React and the MERN Stack
-- 🧠 Interested in problem solving and software development
-- 🚀 Building projects to improve my development skills
-- 📚 Always learning and experimenting with new technologies
-- 🧩 Fun fact: I enjoy the logic of coding and the art of communicating it
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-suri-abb903333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Raunak_Suri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raunak__suri)
-
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🧠 Data Structures & Algorithms
-
-I enjoy solving programming problems and strengthening my problem-solving skills.
-
-### Topics I'm working with
-
-- Arrays & Strings
-- Linked Lists
-- Stacks & Queues
-- Hashing
-- Trees
-- Heaps
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
-- Binary Search
-- Recursion & Backtracking
-
----
-
-<h2>📫 Contact Me</h2>
+### Full Stack Developer · DSA · GDGC DSA-CP Lead
 
 <p>
-  I'm always open to discussing software development, DSA, projects,
-  collaboration and interesting tech ideas.
+  <a href="https://github.com/RaunakSuri">
+    <img src="https://img.shields.io/badge/GitHub-RaunakSuri-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/raunak-suri-abb903333">
+    <img src="https://img.shields.io/badge/LinkedIn-Raunak%20Suri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/raunak__suri">
+    <img src="https://img.shields.io/badge/Instagram-raunak__suri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/raunak-suri-abb903333/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="mailto:raunaksuri211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  
+  <img src="https://komarev.com/ghpvc/?username=raunaksuri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Full Stack Developer** from Pune, India, passionate about building useful products and turning ideas into working applications.
+
+- 🔭 Currently building **full-stack applications and developer tools**
+- 🌱 Currently learning **Advanced Backend Architecture & System Design**
+- 🧠 Practicing **DSA & Competitive Programming**
+- 👯 Looking to collaborate on **Open-Source Full Stack Projects**
+- 🎯 Interested in **Backend Development, Scalable Systems & Problem Solving**
+- 🎤 **GDGC DSA-CP Lead**
+- 💬 Ask me about **MERN Stack, Full Stack Development & DSA**
+- ⚡ Fun fact: **I enjoy turning ideas into working products.**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql,postgres" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+</p>
+
+---
+
+## 🧠 DSA & Competitive Programming
+
+I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
+
+**Currently working through:**
+
+`Arrays` → `Linked Lists` → `Stacks & Queues` → `Trees` → `BST` → `Heaps` → `Graphs` → `Advanced DSA`
+
+---
+
+## 🌟 Leadership & Community
+
+### Google Developer Groups on Campus — DYPCOE
+
+**DSA-CP Lead**
+
+Actively involved in:
+
+- 📚 DSA & Competitive Programming initiatives
+- 🎤 Technical sessions and public speaking
+- 👥 Team coordination & people management
+- 🚀 Developer community activities
+- 💡 Technical events and workshops
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaunakSuri&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSuri&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RaunakSuri&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaunakSuri&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:raunaksuri211@gmail.com">
+  <img src="https://img.shields.io/badge/Email-raunaksuri211%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/raunak-suri-abb903333">
+  <img src="https://img.shields.io/badge/LinkedIn-Raunak%20Suri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/RaunakSuri">
+  <img src="https://img.shields.io/badge/GitHub-RaunakSuri-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 *"Build. Break. Learn. Repeat."*
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
