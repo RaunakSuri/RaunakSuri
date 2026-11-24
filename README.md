@@ -111,7 +111,7 @@ Actively involved in:
 
 <div align="center">
 
-### 💭 *"Build. Break. Learn. Repeat."*
+### 💭 *"Build. Solve. Lead. Repeat."*
 
 **Thanks for visiting my profile! ⭐**
 
